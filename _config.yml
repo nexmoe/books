@@ -92,13 +92,6 @@ deploy:
   branch: master
 - type: baidu_url_submitter ## 这是新加的
 
-nofollow:
-	enable: true
-  exclude:
-    - chainwon.com
-    - nexmoe.com
-    - mixcm.com
-
 baidu_url_submit:
   count: 1 ## 提交最新的一个链接
   host: nexmoe.com ## 在百度站长平台中注册的域名
