@@ -4,4 +4,14 @@ abbrlink: about
 date: 2021-5-26
 ---
 
+## 陆本为
+
+单从意义上来看，这名字有点沦落的味道。
+但是这个名字还是著名主播 lbw 的谐音，突然从忧愁变为喜乐。
+正因这两个方面的诠释，让“陆本为”这个名字具有了浪漫主义的色彩。
+也代表了我的浪漫主义人格。
+
+## 词云
+
 ![Word Art](https://cdn.jsdelivr.net/gh/nexmoe/image@latest/Word%20Art.jpeg)
+
