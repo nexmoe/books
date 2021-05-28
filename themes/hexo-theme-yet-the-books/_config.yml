@@ -11,7 +11,7 @@ analytics: # 统计系统，目前支持 Google analytics.js 统计、Google Tag
   cnzz_site_id: #<ID>
   tencent_site_id: #<ID>
   la_site_id: #<ID>
-  baidu_site_id: #<ID>
+  baidu_site_id: 41b04999ee3d67f2acc9ce741045e68d
   gtm_container_id: #<ID>
 
 cdn: # 这里可以修改站点使用的库的CDN
@@ -24,7 +24,7 @@ cdn: # 这里可以修改站点使用的库的CDN
   valine:
     js: https://cdn.jsdelivr.net/npm/valine
 
-comment: gitalk # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot,utteranc 使用 false 可以关闭
+comment: utteranc # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot,utteranc 使用 false 可以关闭
 
 gitalk:
   admin: nexmoe # 拥有对该repo进行操作的 GitHub username
@@ -71,7 +71,7 @@ DiscussBot:
   diff: 0 # 每位用户name不同颜色
 
 utteranc: # https://utteranc.es/
-  repo: [ENTER REPO HERE]
-	issue_term: pathname
+  repo: nexmoe/books
+	issue_term: title
 	label: Comment
 	theme: github-light
