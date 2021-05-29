@@ -26,15 +26,13 @@ if (is_archive()){
 <%- meta_generator() %>
 <%- css_auto_version('css/style') %>
 <link
-    rel="stylesheet"
+    rel="preload" as="style"
     href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap"
     media="all"
-    preload
 />
 <link
-    rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/highlight.js@9.15.8/styles/solarized-light.css"
-    preload
+    rel="preload" as="style"
 />
 <%- js_auto_version('js/core') %>
 <%- partial('_partial/analytics') %>
