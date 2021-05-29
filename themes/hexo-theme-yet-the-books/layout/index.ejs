@@ -32,7 +32,7 @@
 					</a>
 				<% } else { %>
 					<a class="category-item" href="<%- url_for(category.path) %>">
-						<div class="cover"><h1><img src="<%= cover %>"></h1></div>
+						<div class="cover"><h1><img alt="<%= category.name %>" src="<%= cover %>"></h1></div>
 						<div class="title"><%= category.name %></div>
 					</a>
 				<% } %> 
