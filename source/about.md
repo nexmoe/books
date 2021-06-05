@@ -11,6 +11,10 @@ date: 2021-5-26
 正因这两个方面的诠释，让“陆本为”这个名字具有了浪漫主义的色彩。
 也代表了我浪漫主义的人格。
 
+# 博客大事件
+
+- 2021年05月23日 - 陆本为的博客正式建立
+
 ## 词云
 
 ![Word Art](https://cdn.jsdelivr.net/gh/nexmoe/image@latest/Word%20Art.jpeg)
