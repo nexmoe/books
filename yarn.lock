@@ -1134,6 +1134,11 @@ hexo-tag-aplayer@^3.0.4:
     hexo-util "^0.1.7"
     meting "^1.2.0"
 
+hexo-theme-yet-the-books@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/hexo-theme-yet-the-books/-/hexo-theme-yet-the-books-1.0.1.tgz#3aa9a7be78ac4e740b9ac664e6f7910c1d14ecd9"
+  integrity sha512-edtjT7F0QlDUI1IILXu5JQhq9Xlv/VrSiQXaN0wmHEY1rhO+vozzYLLQd9y5qBaoELSpcmQPTvMLsckgkWBjMg==
+
 hexo-util@^0.1.7:
   version "0.1.7"
   resolved "https://registry.npmjs.org/hexo-util/-/hexo-util-0.1.7.tgz#fdc84e1bf21b19c4c8695424585aa9f13ecd6353"
