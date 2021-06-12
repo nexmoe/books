@@ -1134,10 +1134,10 @@ hexo-tag-aplayer@^3.0.4:
     hexo-util "^0.1.7"
     meting "^1.2.0"
 
-hexo-theme-yet-the-books@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/hexo-theme-yet-the-books/-/hexo-theme-yet-the-books-1.0.1.tgz#3aa9a7be78ac4e740b9ac664e6f7910c1d14ecd9"
-  integrity sha512-edtjT7F0QlDUI1IILXu5JQhq9Xlv/VrSiQXaN0wmHEY1rhO+vozzYLLQd9y5qBaoELSpcmQPTvMLsckgkWBjMg==
+hexo-theme-yet-the-books@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/hexo-theme-yet-the-books/-/hexo-theme-yet-the-books-1.0.2.tgz#5d7e882165f0c10e761e32fcbc42d34167fa0374"
+  integrity sha512-CmMZVbJCO6SwqEtsNT5m17iKP8SRMQYyhlaMuLrNrO3rf+02ZaPCeKElV7twPUt08rhTUOJZYd8FN+VvK7+jhg==
 
 hexo-util@^0.1.7:
   version "0.1.7"
