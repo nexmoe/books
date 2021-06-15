@@ -4,7 +4,7 @@ abbrlink: about
 date: 2021-5-26
 ---
 
-## 陆本为
+# 陆本为
 
 单从意义上来看，这名字有点沦落的味道。
 但是这个名字还是著名主播 lbw 的谐音，突然从忧愁变为喜乐。
@@ -15,7 +15,7 @@ date: 2021-5-26
 
 - 2021年05月23日 - 陆本为的博客正式建立
 
-## 词云
+# 词云
 
 ![Word Art](https://cdn.jsdelivr.net/gh/nexmoe/image@latest/Word%20Art.jpeg)
 
