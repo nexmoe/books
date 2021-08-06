@@ -90,9 +90,6 @@ feed:
   limit: 20
   content: true
   order_by: -date
-  
-aplayer:
-  meting: true
 
 sitemap:
   path: sitemap.xml
