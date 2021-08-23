@@ -17,5 +17,5 @@ date: 2021-5-26
 
 ## 词云
 
-![Word Art](https://cdn.jsdelivr.net/gh/nexmoe/image@latest/Word%20Art.jpeg)
+![Word Art](about/Word%20Art.png)
 
