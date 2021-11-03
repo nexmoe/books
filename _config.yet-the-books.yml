@@ -94,7 +94,7 @@ utteranc: # https://utteranc.es/
 	label: Comment
 	theme: github-light
 
-giscuss: # https://giscuss.app/
+giscus: # https://giscus.app/
   repo: nexmoe/books
   issue_term: title
   label: General
