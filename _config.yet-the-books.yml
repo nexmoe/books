@@ -42,7 +42,7 @@ cdn: # 这里可以修改站点使用的库的CDN
   valine:
     js: https://cdn.jsdelivr.net/npm/valine
 
-comment: utteranc # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot,utteranc 使用 false 可以关闭
+comment: giscuss # 评论框，目前支持 gitalk,gitment,valine,disqus,disqusjs,changyan,livere,DiscussBot,utteranc,giscuss 使用 false 可以关闭
 
 gitalk:
   admin: nexmoe # 拥有对该repo进行操作的 GitHub username
@@ -93,3 +93,9 @@ utteranc: # https://utteranc.es/
 	issue_term: title
 	label: Comment
 	theme: github-light
+
+giscuss: # https://giscuss.app/
+  repo: nexmoe/books
+  issue_term: title
+  label: General
+  theme: light
