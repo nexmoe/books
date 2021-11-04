@@ -96,6 +96,10 @@ utteranc: # https://utteranc.es/
 
 giscus: # https://giscus.app/
   repo: nexmoe/books
-  issue_term: title
-  label: General
+  repo_id: MDEwOlJlcG9zaXRvcnkzNjk5Njc4OTg
+  category: General
+  category_id: DIC_kwDOFg1DGs4B_sy8
+  mapping: title
+  reactions_enabled: 1
   theme: light
+  lang: zh-CN
