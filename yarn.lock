@@ -626,10 +626,10 @@ hexo-server@^2.0.0:
     open "^7.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-yet-the-books@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/hexo-theme-yet-the-books/-/hexo-theme-yet-the-books-1.2.0.tgz#a266d6ffed94756b9dd5855153edfda523ea3510"
-  integrity sha512-epKNIYCJzJl+/aoueHEwDxr1IjSr2G9j2I5g5k6UzC7PilwDMVHcUCuWcsXN5FvJdniYm4tv2P/GZQtGcz4BWg==
+hexo-theme-yet-the-books@^1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/hexo-theme-yet-the-books/-/hexo-theme-yet-the-books-1.3.4.tgz#f18879eb2ca15985b89ef185d888471714449835"
+  integrity sha512-bfU7CGKRnj8+ZqAQK9BLUVUGXI9rPgmaBVzhj/gnY5gFRFFlE4KB9gj7ifwBdM2GvdWas3JyQ9af2R+fn2iXmA==
 
 hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.4.0:
   version "2.5.0"
@@ -859,9 +859,9 @@ minimatch@^3.0.2, minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.npmjs.org/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
 mkdirp@0.5.x:
   version "0.5.5"
